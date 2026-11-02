@@ -1,11 +1,11 @@
-# 无相
+# Wuxiang (无相)
 
-一个单文件的文字修仙游戏。打开 `wuxiang.html` 即可游玩，无需任何依赖与构建。
+A single-file text-based cultivation (xiuxian) game. Just open `wuxiang.html` in a browser — no dependencies, no build step.
 
-## 玩法
+## How to Play
 
-你是书里的一缕意，借一代代传人的手往前走：寻府、种田、开炉、赶集、送走一任又一任传人，直到写完这一卷。
+You are a will inside a book, moving forward through generation after generation of successors: seeking a cave dwelling, tending fields, refining pills, trading at the market — and sending off one successor after another, until the volume is finished.
 
-## 运行
+## Run
 
-浏览器直接打开 `wuxiang.html` 即可（建议 Chrome / Edge）。
+Open `wuxiang.html` directly in a browser (Chrome / Edge recommended).
